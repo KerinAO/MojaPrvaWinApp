@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\MojaPrvaWinFormsApp\MojaPrvaWinFormsApp\bin\Debug\MojaPrvaWinFormsApp.exe.config
+C:\Users\ucenik\source\repos\MojaPrvaWinFormsApp\MojaPrvaWinFormsApp\bin\Debug\MojaPrvaWinFormsApp.exe
+C:\Users\ucenik\source\repos\MojaPrvaWinFormsApp\MojaPrvaWinFormsApp\bin\Debug\MojaPrvaWinFormsApp.pdb
+C:\Users\ucenik\source\repos\MojaPrvaWinFormsApp\MojaPrvaWinFormsApp\obj\Debug\MojaPrvaWinFormsApp.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\MojaPrvaWinFormsApp\MojaPrvaWinFormsApp\obj\Debug\MojaPrvaWinFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\MojaPrvaWinFormsApp\MojaPrvaWinFormsApp\obj\Debug\MojaPrvaWinFormsApp.Form1.resources
+C:\Users\ucenik\source\repos\MojaPrvaWinFormsApp\MojaPrvaWinFormsApp\obj\Debug\MojaPrvaWinFormsApp.Properties.Resources.resources
+C:\Users\ucenik\source\repos\MojaPrvaWinFormsApp\MojaPrvaWinFormsApp\obj\Debug\MojaPrvaWinFormsApp.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\MojaPrvaWinFormsApp\MojaPrvaWinFormsApp\obj\Debug\MojaPrvaWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\MojaPrvaWinFormsApp\MojaPrvaWinFormsApp\obj\Debug\MojaPrvaWinFormsApp.exe
+C:\Users\ucenik\source\repos\MojaPrvaWinFormsApp\MojaPrvaWinFormsApp\obj\Debug\MojaPrvaWinFormsApp.pdb
